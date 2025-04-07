@@ -1,0 +1,10 @@
+# Eclipse files to ignore
+.classpath
+.project
+.settings/
+
+# Java build output
+/bin/
+/target/
+*.log
+
